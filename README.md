@@ -16,7 +16,3 @@ FORK UTS DI GITHUB
 PUSH CODINGAN DI GITHUB
 
 FORMAT REPOSITORY UTS_DAA5_NIM
-
-
-INFO :
-UTS saya belum siap bang. Saya upload di github cuman untuk pengingat aja. Kalo UTS saya sudah siap, INFO bakal saya hapus. Terimakasih bang
