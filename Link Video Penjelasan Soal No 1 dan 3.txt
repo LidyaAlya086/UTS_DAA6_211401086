@@ -1,0 +1,9 @@
+Nama	: Lidya Alya Zahra
+NIM	: 211401086
+Lab	: DAA Lab 6
+
+Berikut adalah link untuk mengakses video penjelasan program saya :
+>> Video penjelasan no 1 - stack dan queue :
+https://drive.google.com/file/d/1y0PivkzK0jOEhfpUv3bM0KvaGopLA6hG/view?usp=sharing
+>> Video penjelasan no 3 - linked list :
+https://drive.google.com/file/d/1EUJGUutoOslSDlqGAn5nAZOdeLN4OdUS/view?usp=sharing
